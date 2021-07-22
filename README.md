@@ -8,5 +8,7 @@ This LTH has been tested on small and medium size benchmark instances with a max
 ## This repo contains the following files:
 1. A Jupyter NoteBook [MKNAP - PSO - Publish version 1.0]() containing the code of the LTH and a brief explanation behind the ideas adopted to develop it.
 2. Two test instances:
+
    [mknap03_1.txt](https://github.com/AghaMS/BPSO_MKP/blob/main/mknap03_1.txt)
+   
    [mknap07_1](https://github.com/AghaMS/BPSO_MKP/blob/main/mknap07_1.txt)
