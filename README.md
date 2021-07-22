@@ -1,5 +1,5 @@
 # BPSO_MKP
-This repo contains a self-developed Low-level-Teamwork-Hybrid **LTH** algorithm to solve the **[multidimensional knapsack problem]** (https://towardsdatascience.com/the-binary-multidimensional-knapsack-problem-mkp-2559745f5fde).
+This repo contains a self-developed Low-level-Teamwork-Hybrid **LTH** algorithm to solve the [multidimensional knapsack problem](https://towardsdatascience.com/the-binary-multidimensional-knapsack-problem-mkp-2559745f5fde).
 
 The global optimizer is the **binary particle swarm optimization** algorithm while **local search** acts as a local intensification operator. 
 
