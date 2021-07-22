@@ -6,7 +6,7 @@ The global optimizer is the **binary particle swarm optimization** algorithm whi
 This LTH has been tested on small and medium size benchmark instances with a maximum number of variables of 100 and the number of constraints is less than 30.
 
 ## This repo contains the following files:
-1. A Jupyter NoteBook [MKNAP - PSO - Publish version 1.0]() containing the code of the LTH and a brief explanation behind the ideas adopted to develop it.
+1. A Jupyter NoteBook [MKNAP - PSO - Publish version 1.0](https://github.com/AghaMS/BPSO_MKP/blob/main/MKNAP%20-%20PSO%20-%20Publish%20version%201.0.ipynb) containing the code of the LTH and a brief explanation behind the ideas adopted to develop it.
 2. Two test instances:
 
    [mknap03_1.txt](https://github.com/AghaMS/BPSO_MKP/blob/main/mknap03_1.txt)
